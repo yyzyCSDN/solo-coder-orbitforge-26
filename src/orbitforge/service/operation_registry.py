@@ -4,7 +4,7 @@ OPERATIONS = {
     'time.convert': 'Convert between UTC, TAI, TT and GPS time scales',
     'frames.transform': 'Transform vectors between inertial and Earth-fixed frames',
     'orbit.propagate': 'Propagate Cartesian orbital states',
-    'maneuver.lambert': 'Solve two-point transfer boundary conditions',
+    'maneuver.lambert': 'Solve two-point transfers: short/long arc, prograde/retrograde, multi-revolution branches',
     'visibility.passes': 'Find station visibility passes',
     'environment.eclipse': 'Classify sunlight and eclipse state',
     'link.budget': 'Evaluate radio-frequency link margin',
